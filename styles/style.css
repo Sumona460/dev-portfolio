@@ -103,7 +103,7 @@ margin-bottom: 5px;
    max-width: 585px;
    vertical-align: middle;
 }
-#about{
+#about, #skills, #resume{
     padding-top: 130px;
 }
 #about .about-content{
@@ -129,10 +129,7 @@ margin-bottom: 5px;
     font-size: 20px;
 }
 
-#skills{
-    padding-top: 130px;
 
-}
 #skills .skills-content{
   width: 71%; 
   max-width: 1140px;
@@ -162,3 +159,4 @@ max-width: 267px;
     color: #757575;
     line-height: 28px;
 }
+.resume-container{}
